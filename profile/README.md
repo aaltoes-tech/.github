@@ -10,12 +10,11 @@ At Aaltoes, we believe in the power of collaboration to create groundbreaking so
 
 Here’s a glimpse of what we’re currently working on:
 
-- **Aaltoes Telegram Chatbot** - A handy bot that should help to solve problems of community.
+- **Aaltoes Telegram Chatbot** - A handy bot that helps to solve problems of the community.
 - **ChatGPT Clone** - An attempt to create a chatbot powered by different LLMs with finetuning and additional functionality.
 - **Minecraft Server** - Source code of our Minecraft server.
 - **Aaltoes Wiki** - A project aimed at creating a knowledge base at `wiki.aaltoes.com`, documenting past Aaltoes projects, startup creation resources, legal aspects, and best practices for open-source development.
-
-Feel free to browse through the repositories for more details on each project.
+- **Aaltoes Brand Store** - We are in the early stages of developing our Aaltoes Brand Store, aiming to offer unique merchandise that reflects the spirit of innovation and entrepreneurship.
 
 ## 🌱 Getting Started
 
@@ -46,9 +45,7 @@ Join our community to connect, share ideas, and collaborate:
 - **Telegram Channel:** Follow us on our [main Telegram channel](https://t.me/aaltoes) for regular updates and announcements.
 - **Info Channel:** For more detailed discussions and information sharing, join our [Telegram Info Channel](https://t.me/+lcMtXV1EAr9mYzIy).
 - **Instagram:** See what we're up to by following us on [Instagram](https://www.instagram.com/aaltoes/).
-- **Discord:** Join our [discord server](https://discord.gg/VZjybYA6) dedicated to "startups, robots and minecraft"
-
-We encourage lively discussion as long as it adheres to our code of conduct. Whether you're looking for help, want to share your projects, or just want to chat with fellow enthusiasts, our channels are open to all.
+- **Discord:** Join our [discord server](https://discord.gg/VZjybYA6) dedicated to "startups, robots and minecraft."
 
 ## 📜 Code of Conduct
 
@@ -67,4 +64,3 @@ All projects in this organization are released under [MIT License](https://opens
 If you have any questions or just want to say hi, don't hesitate to contact us through email at [board@aaltoes.com](mailto:board@aaltoes.com).
 
 Thank you for visiting our organization, and we look forward to seeing what we can build together!
-
