@@ -1,6 +1,6 @@
 # Welcome to Aaltoes Open Source Community!
 
-Hello and welcome! This GitHub organization is managed by [Aaltoes](https://www.aaltoes.com/), the entrepreneurial community at Aalto University dedicated to inspiring and helping students build new startups and foster a spirit of innovation. We are thrilled to provide a platform where student builders can host, share, and develop their open source projects.
+Hello and welcome! This GitHub organization is managed by [Aaltoes](https://www.aaltoes.com/), the student-led entrepreneurial community at Startup Sauna, Otaniemi, dedicated to inspiring and helping other students build new startups and foster a spirit of innovation.
 
 ## 🚀 About Our Organization
 
