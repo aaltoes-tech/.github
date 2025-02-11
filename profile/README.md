@@ -19,7 +19,7 @@ Feel free to browse through the repositories for more details on each project.
 ## 🌱 Getting Started
 
 New to our community? Here’s how you can get started:
-- **Explore Projects:** Check out our [projects](#current-projects) to see what sparks your interest.
+- **Explore Projects:** Check out our [curent projects](https://github.com/orgs/aaltoes-tech/repositories) to see what sparks your interest.
 - **Read Contribution Guides:** Each project repository has a `CONTRIBUTING.md` file with detailed instructions on how you can make a difference.
 
 ## 👨‍💻 How to Contribute
