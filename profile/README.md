@@ -45,7 +45,7 @@ Join our community to connect, share ideas, and collaborate:
 - **Telegram Channel:** Follow us on our [main Telegram channel](https://t.me/aaltoes) for regular updates and announcements.
 - **Info Channel:** For more detailed discussions and information sharing, join our [Telegram Info Channel](https://t.me/+lcMtXV1EAr9mYzIy).
 - **Instagram:** See what we're up to by following us on [Instagram](https://www.instagram.com/aaltoes/).
-- **Discord:** Join our [discord server](https://discord.gg/VZjybYA6) dedicated to "startups, robots and minecraft."
+- **Discord:** Join our [discord server](https://discord.gg/7xRarT4k) dedicated to "startups, robots and minecraft."
 
 ## 📜 Code of Conduct
 
